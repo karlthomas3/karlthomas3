@@ -1,7 +1,8 @@
 ### Hello sunshine 👋
 
-- 🌱 I’m currently learning Elixer, Go, and a bit of pen-testing
-- 🤔 I’m looking for help with finding more work or interesting side projects
+- 🐒 I'm a general purpose code-monkey for hire.
+- 🤔 I’m always looking more work or interesting side projects
+- 🌱 My current learning interests Elixer, Go, and a bit of pen-testing
 - 💬 Ask me about anything but sports
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you ever wonder how squirrels manage to remember where they hide all those nuts?
